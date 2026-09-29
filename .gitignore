@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+wordlist.txt
+word.txt
